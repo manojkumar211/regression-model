@@ -68,6 +68,13 @@ In this dataset, we are having total 4 columns. In 4 columns, 3 columns (TV,Radi
 ```
 
 
+# Elastic Regression
+```
+- Applyed Elastic Regression on 2 features and we got Train score - 0.921%, Test score - 0.810%, Cross validation score - 0.876% for both 
+
+```
+
+
 
 
 

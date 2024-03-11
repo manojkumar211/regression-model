@@ -7,7 +7,7 @@ from concat import X,y
 from sklearn.preprocessing import StandardScaler
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
-from sklearn.linear_model import LinearRegression,ElasticNetCV,Lasso,LassoCV,Ridge,RidgeCV
+from sklearn.linear_model import LinearRegression,ElasticNet,Lasso,LassoCV,Ridge,RidgeCV
 from sklearn.metrics import mean_squared_error,r2_score
 from sklearn.model_selection import cross_val_score, cross_validate,GridSearchCV,train_test_split
 from statsmodels.stats.outliers_influence import variance_inflation_factor
