@@ -1,9 +1,11 @@
+setuptools
 numpy
 pandas
 seaborn
 matplotlib
 scikit-learn
 statsmodels
+
 
 
 -e .
